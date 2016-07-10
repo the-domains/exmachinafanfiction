@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-10T23:17:09.173Z'
+datePublished: '2016-07-10T23:19:17.249Z'
 sourcePath: _posts/2016-07-10-ex-machina-by-mainger-germain-limited-edition.md
 isBasedOnUrl: 'https://alternativemovieposters.com/shop/ex-machina-mainger-germain/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - hiperactivo
 related: []
 author: []
-dateModified: '2016-07-10T23:16:35.854Z'
+dateModified: '2016-07-10T23:19:16.869Z'
 title: Ex Machina by Mainger Germain (Limited Edition)
 app_links: []
 publisher:
@@ -28,7 +28,7 @@ description: >-
   Printed on 280gsm Matt paper with Canon Archival Inks. Stamped and hand
   numbered. (Please allow up to 12 days for delivery)
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
