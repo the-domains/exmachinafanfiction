@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-10T22:49:46.132Z'
+datePublished: '2016-07-10T23:17:14.428Z'
+sourcePath: _posts/2016-07-10-exclusive-francesco-francavilla-illustrates-ex-machina-po.md
 isBasedOnUrl: >-
   http://spinoff.comicbookresources.com/2015/04/09/exclusive-francesco-francavilla-illustrates-ex-machina-poster/
 keywords: []
@@ -8,7 +9,7 @@ author:
   - name: Albert Ching
     url: 'http://spinoff.comicbookresources.com/author/albert-ching/'
     avatar: {}
-dateModified: '2016-07-10T22:49:35.927Z'
+dateModified: '2016-07-10T23:17:01.269Z'
 title: >-
   EXCLUSIVE: Francesco Francavilla Illustrates 'Ex Machina' Poster | Spinoff
   Online | TV & Film News Daily
@@ -23,7 +24,6 @@ description: >-
   poster drawn by "Afterlife with Archie" artist Francesco Francavilla.
 inLanguage: ca
 starred: false
-sourcePath: _posts/2016-07-10-exclusive-francesco-francavilla-illustrates-ex-machina-po.md
 inFeed: true
 hasPage: false
 inNav: false
