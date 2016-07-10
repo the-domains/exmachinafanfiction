@@ -1,14 +1,14 @@
-layout_spectrum: 0.9021238225977868
-typography_spectrum: 0.17225507833063602
+layout_spectrum: 0.13432849803939462
+typography_spectrum: 0.9637883012183011
 color:
-  brandStrength: 0.7572213201783597
-  lightness: 0.6772432522848248
-  saturation: 0.6802801778540015
-  rhythmicContrast: 0.4063505753874779
+  brandStrength: 0.9116437563207
+  lightness: 0.06857838830910623
+  saturation: 0.6219757555518299
+  rhythmicContrast: 0.020791457034647465
   brandColors:
-    - '#F6F792'
-    - '#333745'
-    - '#77C4D3'
-    - '#DAEDE2'
-    - '#EA2E49'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: exmachinafanfiction
