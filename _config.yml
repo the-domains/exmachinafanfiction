@@ -1,6 +1,6 @@
 name: exmachina-fanfiction
 favicon: null
-layout_spectrum: 0.51622
+layout_spectrum: 0.36834
 typography_spectrum: 0.24054
 title: Ex Machina for the fan-made Novel
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#dd4446'
-    - '#6d4445'
-    - '#fefefe'
-    - '#434242'
-    - '#978888'
+    - '#bde0e6'
+    - '#ffffff'
+    - '#7eb5bc'
+    - '#a0c5cd'
+    - '#50a2ad'
   brandStrength: 0.375
   lightness: 0.375
   saturation: 0.5
