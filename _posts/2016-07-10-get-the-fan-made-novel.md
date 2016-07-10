@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-10T22:53:10.623Z'
+datePublished: '2016-07-10T23:17:45.849Z'
+sourcePath: _posts/2016-07-10-get-the-fan-made-novel.md
 author: []
-dateModified: '2016-07-10T22:53:02.674Z'
+dateModified: '2016-07-10T23:17:40.667Z'
 title: Get the fan-made Novel!
 description: ''
 starred: false
-sourcePath: _posts/2016-07-10-get-the-fan-made-novel.md
 inFeed: true
 hasPage: true
 inNav: false
