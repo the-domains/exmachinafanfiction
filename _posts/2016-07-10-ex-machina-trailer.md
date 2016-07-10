@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-10T23:38:56.872Z'
+datePublished: '2016-07-10T23:39:22.520Z'
 sourcePath: _posts/2016-07-10-ex-machina-trailer.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=zYjDApK6_oE'
 keywords:
@@ -18,7 +18,7 @@ author:
   - name: Movieclips Trailers
     url: 'https://www.youtube.com/user/movieclipsTRAILERS'
     avatar: {}
-dateModified: '2016-07-10T23:38:56.461Z'
+dateModified: '2016-07-10T23:39:22.001Z'
 title: Ex Machina Trailer
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=zYjDApK6_oE&feature=applinks'
@@ -64,7 +64,7 @@ publisher:
   domain: www.youtube.com
 description: Sign up below to read the fan-made Novelization to this Award Winning Film
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
