@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-10T21:58:18.493Z'
+datePublished: '2016-07-10T22:16:39.350Z'
+sourcePath: _posts/2016-07-10-ex-machina-trailer.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=zYjDApK6_oE'
 keywords:
   - trailer
@@ -17,7 +18,7 @@ author:
   - name: Movieclips Trailers
     url: 'https://www.youtube.com/user/movieclipsTRAILERS'
     avatar: {}
-dateModified: '2016-07-10T21:57:48.886Z'
+dateModified: '2016-07-10T22:16:00.405Z'
 title: Ex Machina Trailer
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=zYjDApK6_oE&feature=applinks'
@@ -69,7 +70,6 @@ description: >-
   obscure the line between men and gods.
 inLanguage: en
 starred: true
-sourcePath: _posts/2016-07-10-ex-machina-trailer.md
 inFeed: true
 hasPage: false
 inNav: false
