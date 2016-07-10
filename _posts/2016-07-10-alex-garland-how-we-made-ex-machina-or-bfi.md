@@ -67,10 +67,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/iIugmpD9UXk'
 title: 'Alex Garland: how we made Ex Machina | BFI'
-datePublished: '2016-07-10T22:01:57.099Z'
-dateModified: '2016-07-10T22:01:04.260Z'
-starred: false
+datePublished: '2016-07-10T22:43:30.189Z'
+dateModified: '2016-07-10T22:43:29.942Z'
 sourcePath: _posts/2016-07-10-alex-garland-how-we-made-ex-machina-or-bfi.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
