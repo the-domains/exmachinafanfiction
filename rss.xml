@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[exmachinafanfiction]]></title>
+        <description><![CDATA[exmachinafanfiction]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jul 2016 21:58:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ex Machina Trailer]]></title>
+            <description><![CDATA[<article><h1>Ex Machina Trailer</h1><p>Subscribe to TRAILERS: http://bit.ly/sxaw6h Subscribe to COMING SOON: http://bit.ly/H2vZUn Like us on FACEBOOK: http://goo.gl/dHs73 Follow us on TWITTER: http://bit.ly/1ghOWmt Ex Machina Official Trailer #2 (2015) - Oscar Isaac Sci-Fi Thriller HD To erase the line between man and machine is to obscure the line between men and gods.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5651a11a5ccfa4e35219695b801d909e/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FzYjDApK6_oE%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=zYjDApK6_oE</link>
+            <guid isPermaLink="false">a2814fe2-a4d2-4560-803d-c5391cddea7f</guid>
+            <pubDate>Sun, 10 Jul 2016 21:58:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
