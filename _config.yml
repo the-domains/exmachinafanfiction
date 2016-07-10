@@ -1,6 +1,6 @@
 name: exmachina-fanfiction
 favicon: null
-layout_spectrum: 0.6429
+layout_spectrum: 0.51622
 typography_spectrum: 0.24054
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#dd4446'
+    - '#6d4445'
+    - '#fefefe'
+    - '#434242'
+    - '#978888'
   brandStrength: 0.375
   lightness: 0.375
   saturation: 0.5
