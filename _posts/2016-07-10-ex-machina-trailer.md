@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-10T22:38:52.088Z'
+datePublished: '2016-07-10T22:39:21.822Z'
 sourcePath: _posts/2016-07-10-ex-machina-trailer.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=zYjDApK6_oE'
 keywords:
@@ -18,7 +18,7 @@ author:
   - name: Movieclips Trailers
     url: 'https://www.youtube.com/user/movieclipsTRAILERS'
     avatar: {}
-dateModified: '2016-07-10T22:38:51.725Z'
+dateModified: '2016-07-10T22:39:21.297Z'
 title: Ex Machina Trailer
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=zYjDApK6_oE&feature=applinks'
@@ -69,7 +69,7 @@ description: >-
   Isaac Sci-Fi Thriller HD To erase the line between man and machine is to
   obscure the line between men and gods.
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
