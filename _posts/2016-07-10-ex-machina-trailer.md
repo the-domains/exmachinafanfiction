@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-10T22:44:01.321Z'
+datePublished: '2016-07-10T22:45:44.385Z'
 sourcePath: _posts/2016-07-10-ex-machina-trailer.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=zYjDApK6_oE'
 keywords:
@@ -18,7 +18,7 @@ author:
   - name: Movieclips Trailers
     url: 'https://www.youtube.com/user/movieclipsTRAILERS'
     avatar: {}
-dateModified: '2016-07-10T22:44:00.846Z'
+dateModified: '2016-07-10T22:45:36.675Z'
 title: Ex Machina Trailer
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=zYjDApK6_oE&feature=applinks'
@@ -62,12 +62,7 @@ publisher:
   name: YouTube
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
-description: >-
-  Subscribe to TRAILERS: http://bit.ly/sxaw6h Subscribe to COMING SOON:
-  http://bit.ly/H2vZUn Like us on FACEBOOK: http://goo.gl/dHs73 Follow us on
-  TWITTER: http://bit.ly/1ghOWmt Ex Machina Official Trailer #2 (2015) - Oscar
-  Isaac Sci-Fi Thriller HD To erase the line between man and machine is to
-  obscure the line between men and gods.
+description: Sign up below to read the fan-made Novelization to this Award Winning Film
 inLanguage: en
 starred: true
 inFeed: true
