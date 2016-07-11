@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-10T23:17:14.428Z'
+datePublished: '2016-07-11T00:18:53.958Z'
 sourcePath: _posts/2016-07-10-exclusive-francesco-francavilla-illustrates-ex-machina-po.md
 isBasedOnUrl: >-
   http://spinoff.comicbookresources.com/2015/04/09/exclusive-francesco-francavilla-illustrates-ex-machina-poster/
@@ -9,7 +9,7 @@ author:
   - name: Albert Ching
     url: 'http://spinoff.comicbookresources.com/author/albert-ching/'
     avatar: {}
-dateModified: '2016-07-10T23:17:01.269Z'
+dateModified: '2016-07-11T00:18:44.915Z'
 title: >-
   EXCLUSIVE: Francesco Francavilla Illustrates 'Ex Machina' Poster | Spinoff
   Online | TV & Film News Daily
