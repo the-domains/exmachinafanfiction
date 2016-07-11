@@ -1,20 +1,4 @@
-name: exmachina-fanfiction
-favicon: null
-layout_spectrum: 0.36659
 typography_spectrum: 0.24054
-title: 'Ex Machina: The fan-made Novel'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#051717'
@@ -26,4 +10,20 @@ color:
   lightness: 0.125
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.36659
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: exmachina-fanfiction
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Fan-Made Novel
 purpose: []
