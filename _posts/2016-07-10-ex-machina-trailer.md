@@ -1,7 +1,9 @@
 ---
-datePublished: '2016-07-10T23:52:34.068Z'
-sourcePath: _posts/2016-07-10-ex-machina-trailer.md
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=zYjDApK6_oE'
+inLanguage: en
 keywords:
   - trailer
   - duration
@@ -13,12 +15,15 @@ keywords:
   - '2015'
   - oscar
   - thriller
+description: Sign up below to read the fan-made Novelization to this Award Winning Film
+datePublished: '2016-07-11T00:21:18.279Z'
+dateModified: '2016-07-11T00:09:06.830Z'
+sourcePath: _posts/2016-07-10-ex-machina-trailer.md
 related: []
 author:
   - name: Movieclips Trailers
     url: 'https://www.youtube.com/user/movieclipsTRAILERS'
     avatar: {}
-dateModified: '2016-07-10T23:52:21.979Z'
 title: Ex Machina Trailer
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=zYjDApK6_oE&feature=applinks'
@@ -57,17 +62,12 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
+authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-description: Sign up below to read the fan-made Novelization to this Award Winning Film
-inLanguage: en
-inFeed: true
-hasPage: false
-inNav: false
-authors: []
 starred: true
 _context: 'http://schema.org'
 _type: VideoObject
