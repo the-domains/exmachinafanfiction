@@ -1,6 +1,6 @@
 name: exmachina-fanfiction
 favicon: null
-layout_spectrum: 0.33784
+layout_spectrum: 0.13225
 typography_spectrum: 0.24054
 title: 'Ex Machina: The fan-made Novel'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#da6a52'
     - '#008ca7'
   brandStrength: 0.25
-  lightness: 0.25
+  lightness: 0
   saturation: 1
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 purpose: []
