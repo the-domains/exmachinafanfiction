@@ -4,7 +4,7 @@
         <description><![CDATA[The Fan-Made Novel]]></description>
         <link>https://thegrid.ai/exmachinafanfiction/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 21:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 21:18:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/exmachinafanfiction/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ex Machina Trailer]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/33213db1-47ca-4ef6-b915-94132c0bf5d1.jpg</link>
             <guid isPermaLink="false">3af19c08-eb9a-4b7c-9213-4093b2aa953d</guid>
             <pubDate>Sun, 10 Jul 2016 23:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 Things You Didn't Know About Ex Machina]]></title>
+            <description><![CDATA[<article><h1>5 Things You Didn't Know About Ex Machina</h1><p>Jan Gilbert reveals 5 Things You (Probably) Didn't Know About Ex Machina. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/93ef0d128deebab4d7410c92eb00c0e0/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FO849AXOjF0U%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=O849AXOjF0U</link>
+            <guid isPermaLink="false">23d75bd4-e07b-45dc-ad1e-6ad7563ee510</guid>
+            <pubDate>Fri, 29 Jul 2016 21:18:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/exmachinafanfiction/get-the-fan-made-novel/index.html</link>
             <guid isPermaLink="false">d7582e11-2eaf-4b29-943a-255e8d5780bd</guid>
             <pubDate>Sun, 10 Jul 2016 23:17:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alex Garland: how we made Ex Machina | BFI]]></title>
-            <description><![CDATA[<article><h1>Alex Garland: how we made Ex Machina | BFI</h1><p>Alex Garland: how we made Ex Machina | BFI . Subscribe: http://bit.ly/subscribetotheBFI. Writer-director Alex Garland discusses artificial intelligence, filmmaking collaboration and the strength of contemporary TV drama, including Breaking Bad and The Sopranos, with science advisor Dr Adam Rutherford. Garland pays tribute to the Coen Brothers and discusses scientific questions within his work and the real world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe18237d2789dcbd828f727792c2eb2a/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FiIugmpD9UXk%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/iIugmpD9UXk</link>
-            <guid isPermaLink="false">74af4d24-ff85-4913-8824-de6996aff8fb</guid>
-            <pubDate>Sun, 10 Jul 2016 22:43:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
