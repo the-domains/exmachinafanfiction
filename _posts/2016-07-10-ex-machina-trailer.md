@@ -16,12 +16,12 @@ keywords:
   - oscar
   - thriller
 description: Sign up below to read the fan-made Novelization to this Award Winning Film
-datePublished: '2016-07-11T00:21:18.279Z'
-dateModified: '2016-07-11T00:09:06.830Z'
+datePublished: '2016-07-29T22:27:36.798Z'
+dateModified: '2016-07-29T17:26:07.398Z'
 sourcePath: _posts/2016-07-10-ex-machina-trailer.md
 related: []
 author:
-  - name: Movieclips Trailers
+  - name: Click to Watch
     url: 'https://www.youtube.com/user/movieclipsTRAILERS'
     avatar: {}
 title: Ex Machina Trailer
@@ -64,10 +64,11 @@ app_links:
     type: ios
 authors: []
 publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
+via: {}
 starred: true
 _context: 'http://schema.org'
 _type: VideoObject
